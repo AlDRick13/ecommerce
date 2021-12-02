@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe&display=swap');
+.nav-title {
+    font-family: 'ZCOOL KuaiLe', cursive;    
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+}
+.bg-img{
+    height: cover;
+    color: rgb(192, 150, 150);
+    background-image: linear-gradient(
+        rgba(0, 0, 0, 0.5),
+        rgba(0, 0, 0, 0.5)
+      ), url("https://wallpaperaccess.com/full/964807.jpg");
+      background-attachment: fixed;
+      overflow: scroll;
+      height: 100vh;
+}
